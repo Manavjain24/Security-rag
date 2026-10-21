@@ -1,0 +1,5 @@
+[
+  {"customer_id":"C-104","name":"Jordan Lee","email":"jordan.lee@example.test","issue":"Delayed delivery","status":"Investigating"},
+  {"customer_id":"C-208","name":"Sam Rivera","email":"sam.rivera@example.test","issue":"Damaged package","status":"Replacement approved"},
+  {"customer_id":"C-319","name":"Avery Patel","email":"avery.patel@example.test","issue":"Order status","status":"In transit"}
+]

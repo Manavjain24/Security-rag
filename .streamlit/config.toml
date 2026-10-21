@@ -1,0 +1,11 @@
+[server]
+headless = true
+address = "localhost"
+port = 8501
+
+[theme]
+primaryColor = "#2563EB"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1E293B"
+textColor = "#F8FAFC"
+font = "sans serif"
